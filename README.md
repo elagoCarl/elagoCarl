@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elagocarl&label=Profile%20views&color=0e75b6&style=flat" alt="elagocarl" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elagocarl" alt="elagocarl" /></a> </p>
+
 - My latest project is from my OJT/Internship [CBZN DTR System](https://github.com/elagoCarl/CBZN_EMS)
 
 - My Undergraduate Thesis/Capstone [EaseScheduler: A Web-Based Automated Timetabling Platform for CEU Makati](https://github.com/elagoCarl/EaseScheduler)
@@ -24,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elagocarl&show_icons=true&theme=dark&text_color=000000&locale=en&layout=compact" alt="elagocarl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elagocarl&show_icons=true&locale=en" alt="elagocarl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elagocarl&" alt="elagocarl" /></p>
