@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Carl David S. Elago
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3191F6&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3191F6&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack;Backend+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,7 +17,6 @@ I'm a passionate **Software Developer** with a strong foundation in full-stack w
 - 💼 Completed OJT/Internship developing enterprise management systems  
 - 🌱 Currently exploring **Advanced React Patterns** and **Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Projects** and **Web Applications**
-- ⚡ Fun fact: I enjoy optimizing code performance and creating intuitive user experiences
 
 ## 🔥 Featured Projects
 
@@ -27,7 +26,7 @@ I'm a passionate **Software Developer** with a strong foundation in full-stack w
       <h3 align="center">🏢 CBZN DTR System</h3>
       <div align="center">
         <a href="https://github.com/elagoCarl/CBZN_EMS" target="_blank">
-          <img src="https://via.placeholder.com/400x200/3191f6/ffffff?text=DTR+System" width="400" alt="CBZN DTR System"/>
+         CBZN DTR System
         </a>
         <br>
         <p>
@@ -42,7 +41,7 @@ I'm a passionate **Software Developer** with a strong foundation in full-stack w
       <h3 align="center">📅 EaseScheduler</h3>
       <div align="center">
         <a href="https://github.com/elagoCarl/EaseScheduler" target="_blank">
-          <img src="https://via.placeholder.com/400x200/3191f6/ffffff?text=EaseScheduler" width="400" alt="EaseScheduler"/>
+          EaseScheduler
         </a>
         <br>
         <p>
@@ -50,7 +49,7 @@ I'm a passionate **Software Developer** with a strong foundation in full-stack w
             <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
           </a>
         </p>
-        <p><strong>Automated Timetabling Platform</strong> - My Undergraduate Thesis/Capstone project for CEU Makati featuring intelligent scheduling algorithms and conflict resolution.</p>
+        <p><strong>Automated Timetabling Platform</strong> - My Undergraduate Thesis/Capstone project for CEU Makati featuring the Automated Scheduling System using the Backtracking Algorithm and conflict resolution.</p>
       </div>
     </td>
   </tr>
@@ -124,7 +123,7 @@ I'm a passionate **Software Developer** with a strong foundation in full-stack w
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elagocarl&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="elagocarl" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elagocarl&theme=darkhub&no-frame=true&margin-w=15" alt="trophies"/>
 </p>
 
 ## 📫 Let's Connect!
@@ -146,14 +145,10 @@ I'm a passionate **Software Developer** with a strong foundation in full-stack w
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
-</div>
-
 <p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>"OK LANG YAN BOIII"</i>
 </p>
 
 <p align="center">
-  Made with ❤️ by Carl David S. Elago
+  By Carl David S. Elago
 </p>
