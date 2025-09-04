@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Carl David S. Elago
+# Yo,I'm Carl David S. Elago
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3191F6&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack;Backend+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 
 I'm a passionate **Software Developer** with a strong foundation in full-stack web development. I love creating efficient, scalable solutions and am always eager to learn new technologies. Currently focused on building modern web applications that solve real-world problems.
 
-- 🎓 Recent Computer Science graduate with hands-on industry experience
+- 🎓 Computer Science graduate with hands-on industry experience
 - 💼 Completed OJT/Internship developing enterprise management systems  
 - 🌱 Currently exploring **Advanced React Patterns** and **Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Projects** and **Web Applications**
