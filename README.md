@@ -129,7 +129,7 @@ I'm a passionate **Software Developer** with a strong foundation in full-stack w
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/carl david elago" target="_blank">
+  <a href="https://www.linkedin.com/in/elagocarl" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:elagocarl@gmail.com" target="_blank">
